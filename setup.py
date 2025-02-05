@@ -31,7 +31,7 @@ setup(
         'nltk',
         'enum34',
         'spacy',
-        'sklearn',
+        'scikit-learn',
         'future'
     ]
 )
